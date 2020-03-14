@@ -1,0 +1,16 @@
+Please use omnet++ to run this simulation. 
+
+These parameters can be changed through NED file: 
+- Network Size
+- Network Bandwidth 
+- Number of connections 
+- Link delay
+- Average number of connections
+
+These parameters can be changed through C++ source code: 
+- Block size 
+- Block processing time 
+- Block size 
+- Size of inv and getdata messages 
+
+For very big networks it takes several hours to complete the simulation and several hours for generating the report. 
